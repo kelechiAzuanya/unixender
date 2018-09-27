@@ -1,0 +1,85 @@
+   .px-2 {
+      padding-left: ($spacer * .50);
+      padding-right: ($spacer * .50);
+    }
+    #user{
+      color: white;
+      font-weight: bold;
+      font-family: 'big_johnregular';
+    }
+
+.nav-right{
+
+	float: right;
+	padding-left: 270px;
+}
+#bd{
+	background-color: green;
+}
+
+
+
+.nav-right{
+  float: right;
+  padding-left: 600px;
+}
+.nav-right a{
+ color: white; 
+ font-family: Century Gothic; 
+ font-size: 18px; 
+ font-weight: bold;
+}
+.nav-right a:hover {
+  color: black;
+}
+.nav-right a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+.list-group-item{
+  border-color: #99cc00;
+  color: #99cc00;
+}
+
+.list-group a.active{
+  background-color: #99cc00;
+}
+.navbar{
+  background-color: #99cc00;
+}
+.btn-logout{
+  color: white; 
+  font-family: Century Gothic; 
+  font-size: 14px; 
+  font-weight: bold;
+  border-color:white; 
+}
+
+#body-style{
+  font-family: Century Gothic;
+  color: #99cc00;
+}
+#tiptxt{
+  font-family: Century Gothic;
+  font-weight: bold;
+}
+#sub-t{
+  font-weight: bold;
+  color: #99cc00;
+}
+#btn-body{
+  background-color:#99cc00;
+  color: white;
+  border-color: #99cc00;
+}
+#com-style{
+  border-color: #99cc00;
+}
+
+.navbar-brand{
+ color: white;
+ font-family:Century Gothic; 
+ font-size: 28px; 
+ font-weight: bold;
+ padding-left: 65px;
+}
